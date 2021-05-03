@@ -1,0 +1,4 @@
+{
+  "build" : { "dockerfile" : "Dockerfile" }
+  "extensions" : [ "justusadam.language-haskell", "haskell.haskell"]
+}
